@@ -1,5 +1,5 @@
 return {
   {Name = "IceHub", Desc = "Troll Gui for brookhaven", Script = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()]]}
   {Name = "Vhub", Desc = "Hub with much of functions", Script = [[loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyaboivincentt5315/script/main/VHub.txt'),true))()]]}
-  {Name = "Universe Hub", Desc = "Ragdool Engine Troll ui", Script = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/Hydro4Music/UniHub/main/loader'))()]]}
+  {Name = "Universe Hub", Desc = "Works for ragdool and Brookhaven", Script = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/Hydro4Music/UniHub/main/loader'))()]]}
 }
